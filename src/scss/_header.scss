@@ -30,7 +30,7 @@ header {
       gap: 0.5rem;
     }
     &.search {
-      display: flex;
+      display: var(--search-bar-display);
       align-items: stretch;
       gap: 0;
 
